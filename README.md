@@ -5,7 +5,8 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>Portfolio Code</title>
-  <link rel="stylesheet" type="text/css" href="css.css">
+  <link rel="stylesheet" type="text/css" href="portfolio.io
+  /css.css">
   <link rel="stylesheet" href="style.css" />
   <script src="https://kit.fontawesome.com/66aa7c98b3.js" crossorigin="anonymous"></script>
   <script src="https://code.jquery.com/jquery-3.6.0.min.js"
@@ -17,7 +18,7 @@
     <nav class="navbar">
       <div class="navbar-container container">
         <div>
-          <h1 class="navbar-brand"> Hamsini </h1>
+          <h1 class="navbar-brand">Prasanth Kumar</h1>
         </div>
         <ul class="menu-items">
           <li><a href="#about">About</a></li>
@@ -28,7 +29,7 @@
     </nav>
     <div class="home-content" id="home-page">
       <div class="name">
-        <h1>Hi, I'm Hamsini</h1>
+        <h1>Hi, I'm Prasanth Kumar</h1>
         <p>Associate Software Engineer</p>
       </div>
       <div class="angle-down-icon">
@@ -112,9 +113,9 @@
             <i class="fab fa-html5"></i>
             <i class="fab fa-css3-alt"></i>
             <i class="fab fa-js"></i>
-            <h2> Setup a LAMP Server on Ubuntu for PHP Web Development</h2>
-            <p>This Bash script installs the Lamp stack which is a combination of operating system and open-source software stack. This LAMP setup includes the installation of Apache HTTP Server, MySQL and PHP on the top of Ubuntu.</p>
-            <button><a href="https://github.com/dev-ops-aws/sonix_batch3/tree/pavan/linux/linux-proj/project-1" target="blank">View source <i
+            <h2>Efficient Log Management</h2>
+            <p>This Bash script monitors a specified directory for large files (greater than 2GB), calculates disk usage, and maintains a summary log. It also performs log rotation to clean up old log files. You can schedule this script to run as a cron job.</p>
+            <button><a href="https://github.com/dev-ops-aws/sonix_batch3/blob/prasanth/linux/linux-proj/project-2/project2" target="blank">View source <i
                   class="fas fa-external-link-alt"></i></a>
             </button>
            
@@ -148,14 +149,14 @@
       <div class="contact-content">
         <h2>Contact Me</h2>
         <p class="mail">
-          Get in touch with me <i class="fas fa-arrow-right"></i> hamsini@sonixhub.com @gmail.com
+          Get in touch with me <i class="fas fa-arrow-right"></i> Prasanthkumarakkili@gmail.com
         </p>
         <p class="links">Or find me on:</p>
-        <a href="https://www.linkedin.com/in/hamsini-d-b7544414a" target="blank"><i class="fab fa-linkedin">
+        <a href="https://www.linkedin.com/in/prasanth-kumar-1a3593289/" target="blank"><i class="fab fa-linkedin">
             Linkedin</i></a>
      
-        <a href="https://github.com/hams77" target="blank"><i class="fab fa-github"></i> Github</a>
-        <a href="https://hashnode.com/" target="blank"><i class="fab fa-dev"></i> Hashnode </a>
+        <a href="https://github.com/PrasanthKumar0" target="blank"><i class="fab fa-github"></i> Github</a>
+        <a href="https://hashnode.com/@PrasanthA" target="blank"><i class="fab fa-dev"></i> Hashnode </a>
        
        
       </div>
@@ -165,5 +166,3 @@
 </body>
 
 </html>
-
-
