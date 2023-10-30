@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Portfolio Code
-permalink: https://github.com/PrasanthKumar0/test/blob/5888d2878cc9bcc215ca25414495bc20bdaed558/readme.md
+permalink: / https://github.com/PrasanthKumar0/test/blob/5888d2878cc9bcc215ca25414495bc20bdaed558/readme.md /
 
 
 ---
