@@ -1,11 +1,8 @@
 ---
 layout: default
 title: Portfolio Code
-<nav class="navbar">
-  <ul>
-    <li><a href="https://github.com/PrasanthKumar0/test/blob/5888d2878cc9bcc215ca25414495bc20bdaed558/readme.md" target="_blank">Portfolio</a></li>
-  </ul>
-</nav>
+permalink: https://github.com/PrasanthKumar0/test/blob/5888d2878cc9bcc215ca25414495bc20bdaed558/readme.md
+
 
 ---
 
