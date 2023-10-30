@@ -1,6 +1,12 @@
 ---
 layout: default
 title: Portfolio Code
+<nav class="navbar">
+  <ul>
+    <li><a href="https://github.com/PrasanthKumar0/test/blob/5888d2878cc9bcc215ca25414495bc20bdaed558/readme.md" target="_blank">Portfolio</a></li>
+  </ul>
+</nav>
+
 ---
 
 <h1>Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Prasanth Kumar</h1>
